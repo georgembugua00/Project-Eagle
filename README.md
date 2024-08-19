@@ -45,22 +45,22 @@ The tool leverages multiple datasets, including:
 
 To get started with the project, follow these steps:
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/automated-budget-analysis-tool.git
-Navigate to the project directory:
-bash
-Copy code
-cd automated-budget-analysis-tool
-Install the necessary dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Run the tool:
-bash
-Copy code
-python main.py
+- Clone the repository:
+- bash
+- Copy code
+- git clone https://github.com/yourusername/automated-budget-analysis-tool.git
+- Navigate to the project directory:
+- bash
+- Copy code
+- cd automated-budget-analysis-tool
+- Install the necessary dependencies:
+- bash
+- Copy code
+- pip install -r requirements.txt
+- Run the tool:
+- bash
+- Copy code
+- python main.py
 
 ### How to Use
 Load the data: Upload the necessary datasets into the tool.
