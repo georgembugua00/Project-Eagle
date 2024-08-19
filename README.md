@@ -19,29 +19,27 @@ Visualization Dashboards: Provides clear and interactive visualizations for poli
 #### Data Sources
 The tool leverages multiple datasets, including:
 
-#### Economic and Fiscal Data: National and regional budgets, tax revenue, public expenditure.
+**Economic and Fiscal Data**: National and regional budgets, tax revenue, public expenditure.
 
-#### Tax Regime Data: Historical and current tax rates, tax base, and policy changes.
+**Tax Regime Data**: Historical and current tax rates, tax base, and policy changes.
 
-#### Macroeconomic Indicators: GDP, inflation rates, unemployment rates.
+**Macroeconomic Indicators**: GDP, inflation rates, unemployment rates.
 
-#### Trade Data: Import/export data, trade agreements impact.
+**Trade Data**: Import/export data, trade agreements impact.
 
-#### Industry Data: Manufacturing output, business registrations.
+**Industry Data**: Manufacturing output, business registrations.
 
-#### KAM-Specific Data: Reports, member contributions, and industry impact.
+**KAM-Specific Data**: Reports, member contributions, and industry impact.
 
 ## Technologies Used
 
 #### Programming Language: Python
 
-Libraries: TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, PyMuPDF (Fitz)
+**Libraries**: TensorFlow, Pandas, NumPy, Matplotlib, Seaborn, PyMuPDF (Fitz)
 
-Machine Learning: BERT (Bidirectional Encoder Representations from Transformers) for text summarization and analysis.
+**Machine Learning**: BERT (Bidirectional Encoder Representations from Transformers) for text summarization and analysis.
 
-Data Visualization: Power BI, Matplotlib, Seaborn
-
-Other Tools: Azure for cloud computing, Jupyter Notebooks for experimentation.
+**Data Visualization**: Power BI, Matplotlib, Seaborn
 
 ## Installation
 
@@ -71,11 +69,11 @@ View Results: The tool will process the data, run the predictive models, and gen
 Export Reports: You can export the analysis and visualizations as reports for further review or presentation.
 
 ## Team Members
-Member 1: Data Scientist - Focus on machine learning models and predictive analytics.
-Member 2: Data Analyst - Responsible for data processing and analysis.
-Member 3: Software Developer - Developed the application and integrated APIs.
-Member 4: UX/UI Designer - Designed the user interface and visualization dashboards.
-Member 5: Project Manager - Coordinated the project, ensuring timely delivery and quality.
+**Member 1**: Data Scientist - Focus on machine learning models and predictive analytics.
+**Member 2**: Data Analyst - Responsible for data processing and analysis.
+**Member 3**: Software Developer - Developed the application and integrated APIs.
+**Member 4**: UX/UI Designer - Designed the user interface and visualization dashboards.
+**Member 5**: Project Manager - Coordinated the project, ensuring timely delivery and quality.
 
 ## Contributing
 We welcome contributions from the community. Please read the CONTRIBUTING.md file for more details on how to contribute.
