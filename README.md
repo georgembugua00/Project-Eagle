@@ -1,7 +1,7 @@
 # Project-Eagle
 Project challenge for the hackathon
 
-![download](https://github.com/user-attachments/assets/e5189e22-f2aa-4fce-8ca5-4a3c89575de9)
+                                                      ![download](https://github.com/user-attachments/assets/e5189e22-f2aa-4fce-8ca5-4a3c89575de9)
 ## Automated Budget Analysis Tool
 ### Overview
 The Automated Budget Analysis Tool is developed to enhance the budget-making process of the Kenya Association of Manufacturers (KAM). This tool leverages data analytics and machine learning to provide predictive insights into the impact of various tax regimes on the economy. It aims to automate the currently manual process, improve efficiency, and offer policymakers data-driven visualizations to inform decision-making.
